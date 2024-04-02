@@ -1,0 +1,22 @@
+{
+  "name": "testedesoftware",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thomaz-Dantass/TesteDeSoftware.git"
+  },
+  "author": "Gilmar Thomaz Dantas Pereira Da Silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thomaz-Dantass/TesteDeSoftware/issues"
+  },
+  "homepage": "https://github.com/Thomaz-Dantass/TesteDeSoftware#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
